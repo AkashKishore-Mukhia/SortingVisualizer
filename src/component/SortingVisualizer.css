@@ -1,0 +1,38 @@
+.array-container{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    /* transform: rotate(180deg); */
+    /* background-color: rgba(10, 10, 10, 0.966); */
+}
+
+
+.array-bars{
+    width: 2px;
+    background-color: turquoise;
+    display: inline-block;
+    margin:1px;
+
+}
+
+.buttons{
+    /* transform: rotate(180deg); */
+    height: 60px;
+    padding: 20px;
+    background-color: #43422C;
+}
+
+.array-bars-container{
+    position:absolute;
+    bottom: 0px;
+    bottom: 0px;
+}
+
+/* button sytling */
+.btn {
+    border-radius: 10px;
+    background-color: #fe4066;
+    width: 10vw;
+    height: 40px;
+    font-size: 15px;
+}
